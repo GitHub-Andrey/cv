@@ -24,6 +24,6 @@ const experience = [
         "to": 'Present',
         "position": "Description",
         "description": "It's the project that is this summary. It is written using the following technologies: HTML, CSS, Bootstrap. But the use of Bootstrap is key in the responsive layout of this project.  It is an important technology that gives the opportunity to speed up the creation of adaptive websites.",
-        "link": ""
+        "link": "https://github-andrey.github.io/cv/"
     },
 ]
